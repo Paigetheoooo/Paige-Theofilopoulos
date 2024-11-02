@@ -1,1 +1,2 @@
 # Paige-Theofilopoulos
+Attached is my coding project. The MP3 file features my TunePad code, where I created a rendition of 'Jingle Bells.' Originally, this was intended to be my complete project, but I decided to expand my coding literacy by creating an accompanying animation. The Processing file includes an interactive home page that, when clicked, plays my 'Jingle Bells' code from TunePad, paired with a coded Christmas animation. I hope you enjoy it!
